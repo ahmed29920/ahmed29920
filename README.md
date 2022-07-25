@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" height="100%"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-ashraf-4b7359222"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
