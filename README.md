@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ahmed29920/ahmed29920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,13 +14,14 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100"/>
-</div>
-
-<div id="badges">
+  <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+</div>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=ahmed29920&style=flat-square&color=blue" alt=""/>
 
