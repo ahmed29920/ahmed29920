@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<p align="center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" height="100%"/></p>
+<p align="center"><img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300" height="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/ahmed-ashraf-4b7359222"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -24,15 +24,13 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
-
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100"/>
+    <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 </div>
 
 ---
